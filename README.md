@@ -213,13 +213,4 @@ Checkout the web version of the `Awesome Button UI Component` at [rcaferati/reac
 
 [<img src="https://caferati.me/images/github/awesome-button-web.png" width="800" />](https://awesome-button.caferati.me)
 
-## About the Author
-
-#### Rafael Caferati
-
-- Checkout my <a href="https://caferati.me" title="Full-Stack Web Developer, UI/UX Javascript Specialist" target="_blank">Portfolio Website</a>
-- Connect with me on `LinkedIn` <a href="https://linkedin.com/in/rcaferati" title="Full-Stack Web Developer, UI/UX Javascript Specialist" target="_blank">@rcaferati</a>
-
-## License
-
-MIT. Copyright (c) 2022 Rafael Caferati.
+MIT. Copyright (c) 2022 Andy Blake.
